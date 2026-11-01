@@ -25,7 +25,22 @@
 10. **Конец**
 
 ### Блок-схема
-<img width="250" height="650" alt="Блок-схема" src="ССЫЛКА_НА_ТВОЮ_БЛОК_СХЕМУ" />
+
+<img width="309" height="756" alt="Диаграмма без названия drawio (2)" src="https://github.com/user-attachments/assets/2f68c122-25f0-4b9a-9048-28a36277c93b" />
 
 ## 2. Реализация программы
-Исходный код программы: [KP.c](KP.c)
+Исходный код программы: [Source.c](Source.c)
+
+## 3. Результаты работы программы
+
+**Пример 1: Построение закрашенного ромба (символ `%`, размер 4)**
+
+<img width="395" height="209" alt="image" src="https://github.com/user-attachments/assets/7f91c318-f2b6-41d0-816c-50932c33ca1b" />
+
+**Пример 2: Проверка на ошибку ввода (размер 0)**
+
+<img width="373" height="75" alt="image" src="https://github.com/user-attachments/assets/6c392aa6-7220-4f3e-82b0-6e56b4bc31c4" />
+
+## 4. Информация о разработчике
+Носырева Элла 
+БОТИ-261
